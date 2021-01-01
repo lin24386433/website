@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100&family=Noto+Serif+TC:wght@200&display=swap');
+.test {
+  position: absolute;
+  color: red;
+  color: #17bf44;
+  font-size: 72px;
+  font-weight: 900;
+/*   font-style: italic; */
+  font-family: 'Noto Sans TC', sans-serif;
+font-family: 'Noto Serif TC', serif;
+  right: 100px;
+  bottom: 100px;
+  ransform-origin: left top;
+  transform: rotate(-30deg);
+}

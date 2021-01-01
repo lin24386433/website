@@ -1,0 +1,39 @@
+.btn1{
+  background-color: blue;
+  padding: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #fff;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.btn1:hover{
+  background-color: #fff;
+  color: blue;
+}
+.btn2{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  background-color: #a39517;
+  padding: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #fff;
+  border-radius: 10px 0 0 10px;
+  text-decoration: none;
+}
+.btn2:hover{
+  background-color: #fae207;
+  color: red;
+}
+.area{
+  min-height: 100vh;
+}
+.area1{
+  background-color: #e1f5c6;
+  margin-top: 100vh;
+}
+.area2{
+  background-color: #b0eff77;
+}

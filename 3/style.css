@@ -1,0 +1,119 @@
+.picture {
+  width: 300px;
+  height: 200px;
+  display: inline-block;
+}
+
+.cup{
+  width: 200px;
+  height: 150px;
+  background-color: #b1aaa5;
+  border-radius: 0 0 30px 30px;
+  margin-left: 30px;
+}
+.handle {
+  width: 100px;
+  height: 100px;
+  background-color: #b1aaa5;
+  border-radius: 0 30px 30px 0;
+  margin-left: 230px;
+  margin-top: -150px;
+}
+.handle2 {
+  width: 80px;
+  height: 70px;
+  background-color: #FFF;
+  border-radius: 0 20px 20px 0;
+  margin-top: 15px;
+  position: absolute;
+
+ }
+.plate {
+  position: absolute;
+  width: 200px;
+  height: 10px;
+  background-color:  #b1aaa5;
+  margin-left: 35px;
+  margin-top: 60px;
+}
+.plate2 {
+  position: absolute;
+  width: 250px;
+  height: 10px;
+  background-color:  #b1aaa5;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.coffee1 {
+  position: absolute;
+  background-color: #6e4a30;
+  width: 180px;
+  height: 30px;
+  border-radius: 0 0 30px 30px;
+  margin-top: 100px;
+  margin-left: 10px;
+  color: #fff;
+  text-align: center;
+}
+.name1 {
+  margin-left: 100px;
+  margin-top: 70px;
+}
+.milk1 {
+  position: absolute;
+  background-color: #fff;
+  width: 180px;
+  height: 30px;
+  margin-top: 70px;
+  margin-left: 10px;
+  color: #000;
+  text-align: center;
+}
+.name2 {
+  margin-left: 100px;
+  margin-top: 70px;
+}
+.water1 {
+  position: absolute;
+  background-color: #0000ff;
+  width: 180px;
+  height: 70px;
+  margin-top: 30px;
+  margin-left: 10px;
+  color: #fff;
+  text-align: center;
+}
+.name3 {
+  margin-left: 100px;
+  margin-top: 70px;
+}
+.milk2 {
+  position: absolute;
+  background-color: #edd97e;
+  width: 180px;
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 10px;
+  color: #000;
+  text-align: center;
+}
+.milk3 {
+  position: absolute;
+  background-color: #fff;
+  width: 180px;
+  height: 20px;
+  margin-top: 30px;
+  margin-left: 10px;
+  color: #000;
+  text-align: center;
+}
+.milk4 {
+  position: absolute;
+  background-color: #ffbe3b;
+  width: 180px;
+  height: 30px;
+  margin-top: 70px;
+  margin-left: 10px;
+  color: #000;
+  text-align: center;
+}
